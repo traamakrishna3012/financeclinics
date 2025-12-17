@@ -1,0 +1,10 @@
+// Admin Pages
+export { default as Login } from './Login'
+export { default as Dashboard } from './Dashboard'
+export { default as Leads } from './Leads'
+export { default as ServicesAdmin } from './Services'
+export { default as PagesAdmin } from './Pages'
+export { default as BlogAdmin } from './Blog'
+export { default as SettingsAdmin } from './Settings'
+export { default as MISAdmin } from './MIS'
+export { default as UsersAdmin } from './Users'
